@@ -1,4 +1,4 @@
-name: Initial Deployment Pipeline
+name: Deployment Pipeline
 on:
   workflow_dispatch:
   push:
